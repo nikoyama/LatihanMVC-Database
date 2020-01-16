@@ -8,6 +8,9 @@ package edu.nikoyama.latihanmvcjdbc.error;
 /**
  *
  * @author NIX
+ * NAMA : Niko Yama
+ * KELAS : PBO2
+ * NIM : 10118048
  */
 public class PelangganException extends Exception {
 
